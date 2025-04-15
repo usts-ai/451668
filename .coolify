@@ -1,0 +1,2 @@
+DOMAIN=451668.usts.ai # domaine souhaité
+PORT=3000 # port à exposer, sur lequel tourne l'app
